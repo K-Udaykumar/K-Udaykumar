@@ -2,9 +2,10 @@
 
 👋 Hi, I’m Uday<br/>
 💻 I’m a freelancer skilled in data entry, automation, and coding<br/>
-⚙ I work with Python, Excel, Word, and backend tools<br/>
+⚙  I work with Python, Excel, Word, and backend tools<br/>
 🧠 Fast learner & detail-focused — I believe in clean, accurate work<br/>
 🌱 Always learning something new in tech & digital productivity<br/>
+😎 Portfolio : https://uday-kumar.my.canva.site/portfolio
 📫 Let’s connect: www.linkedin.com/in/udaykumar-kotipalli<br/>
 
 
